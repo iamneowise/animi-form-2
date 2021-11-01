@@ -1,0 +1,47 @@
+.background{
+    background-color: rgb(2, 2, 73);
+}
+.basic{
+    color: white;
+}
+.basicStyle{
+    background-color:rgb(2, 2, 73);
+    border-color:orange;
+    width: 300px;
+    height: 60px;
+    color: white;
+}
+.dropDownStyle{
+    background-color:rgb(2, 2, 73);
+    border-color:orange;
+    width: 300px;
+    height: 60px;
+    color: white;
+}
+.descriptionStyle{
+    background-color:rgb(2, 2, 73);
+    border-color:orange;
+    width: 300px;
+    height: 100px;
+    color: white;
+}
+.description{
+    color: white;
+    margin-left: 50%;
+}
+.submitButton{
+    margin-top: 30px;
+    background-color: tomato;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-style: circle;
+}
+.header{
+    width: 25%;
+    padding: 2px 8px 2px 2px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: orange;
+}
